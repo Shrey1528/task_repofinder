@@ -1,0 +1,8 @@
+.repo-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 2rem 6rem;
+  height: 80vh;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
